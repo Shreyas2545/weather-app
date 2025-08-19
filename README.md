@@ -7,7 +7,7 @@ This app provides real-time weather data and supports location-based searches.
 
 ## 🖼 Screenshot
 
-![image alt]()
+![image alt](https://github.com/Shreyas2545/weather-app/blob/e69e796a88de30e30954d6c349fcf2bb45e11017/src/assets/Screenshot%202025-08-19%20133129.png)
 
 ---
 
